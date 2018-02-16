@@ -1,8 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
 
 ## makeCacheMatrix creates a special matrix that sets and gets the value of a matrix
-## and sets and gets the value of the inverse of the matrix
+## and sets and gets the value of the inverse of the matrix use solve(x)
+## Created for the Week 3 Assignment, R Programming Course
 
 
 makeCacheMatrix <- function(x = matrix()) {
